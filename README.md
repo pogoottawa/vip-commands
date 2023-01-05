@@ -9,18 +9,23 @@ Jump to Command Lists:<br/>[Chansey](#-chansey)<br/>[Indigo Minior](#-indigo-min
 ### Reading Command Usage
 
 Commands in this list are formatted in a consistent way for readability.
-- All command usages start with a **prefix** or a **slash**. If a command starts with a prefix, include that symbol before the command name when using the command. If the command starts with a **slash**, you must select that command and its options from Discord's Slash Command Menu.
+- All command usages start with a **prefix** or a **slash**. If a command starts with a **prefix**, include that symbol before the command name when using the command. If the command starts with a **slash**, you must select that command and its options from Discord's Slash Command Menu.
 - If you see something in angle brackets `<>`, replace that text with something else to use the command. This is a **required** option.
 - If you see something in square brackets `[]`, this is an **optional** option. You can replace this with something else, or omit that option entirely when using the command.
 - Some options might say "user mention", or "user ID", or "user mention or ID". If the option is "user mention or ID", that means either can be included in the command. If the command only specifies a "mention" or "ID", then assume the other will not be interpreted correctly.
 
+#### Aliases
+Some commands have **aliases**. Aliases can be used in place of the command name when using the command.
+
 #### Example
 Usage: `.derp <text> [user mention or ID]`
+Aliases: `d`
 
 The **prefix** for this command is "." and its **command name** is "derp". When using this command you *must* input a text **option** and you *may* also include a user ID or mention as an optional option. Proper uses of this command may look like:  
 `.derp hello` or  
-`.derp hello @Indigo Minior` or  
-`.derp hello 886734901204901958`  
+`.d hello` or  
+`.d hello @Indigo Minior` or  
+`.d hello 886734901204901958`
 
 ### Reporting Errors
 

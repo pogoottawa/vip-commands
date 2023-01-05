@@ -378,6 +378,88 @@ Usage: `+wdd [user mention or ID]`
 
 Prefix: `!`
 
+### rules
+
+Usage: `!rules [user mention or ID]`  
+
+### rule1
+*All content must be family friendly*
+
+Usage: `!rule1 [user mention or ID]`  
+Aliases: `family`
+
+### rule2
+*No harassment, bullying, or discrimination will be tolerated*
+
+Usage: `!rule2 [user mention or ID]`  
+Aliases: `bully`, `harass`
+
+### rule3
+*No spoofing or modified game clients*
+
+Usage: `!rule3 [user mention or ID]`  
+Aliases: `spoof`
+
+### rule4
+*Do not create raids with no intention of sending invites*
+
+Usage: `!rule4 [user mention or ID]`  
+Aliases: `fake`
+
+### rule5
+*Do not spam, and be sure to keep content relative to the channel you're in*
+
+Usage: `!rule5 [user mention or ID]`  
+Aliases: `spam`
+
+### rule6
+*No advertising other servers or self-promotion*
+
+Usage: `!rule6 [user mention or ID]`  
+Aliases: `promo`, `selfpromo`
+
+### rule7
+*No offering to buy or sell accounts, or solicitation of any other in-game services that violate Niantic's ToS or Player Guidelines*
+
+Usage: `!rule7 [user mention or ID]`  
+Aliases: `buy`, `sell`, `service`, `services`
+
+### rule8
+*Server nicknames should be easily readable and pingable and must follow other server rules*
+
+Usage: `!rule8 [user mention or ID]`  
+Aliases: `nick`, `nickname`, `nicknames`
+
+### rule9
+*Your PokeNav profile must be complete and accurately reflect the Pokémon GO account being used in raids*
+
+Usage: `!rule9 [user mention or ID]`  
+Aliases: `profile`
+
+### rule10
+*For the most part, this is an English-only server*
+
+Usage: `!rule10 [user mention or ID]`  
+Aliases: `english`
+
+### rule11
+*No mini-modding or impersonation of staff members*
+
+Usage: `!rule11 [user mention or ID]`  
+Aliases: `mod`, `minimod`
+
+### rule12
+*No begging for raids, gifts, tickets, nitro, etc.*
+
+Usage: `!rule12 [user mention or ID]`  
+Aliases: `beg`, `begging`
+
+### rule13
+*Per Discord's ToS, you must be 13 years or older to access this server. Additionally, we ask members to not disclose or allude to your age or any other personal information, especially if you are a minor*
+
+Usage: `!rule13 [user mention or ID]`  
+Aliases: `tos`
+
 ## Professor Oak
 
 Prefix: `!`

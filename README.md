@@ -322,6 +322,8 @@ Prefix: none
 Help Command: Check the slash command list
 
 ### link
+*Share a link from the knowledge guide*
+
 Usage: `/link <link> [user]`
 
 ## Lilian Meridian

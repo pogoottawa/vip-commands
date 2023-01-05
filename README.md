@@ -467,7 +467,3 @@ Prefix: `!`
 ### pvpoke
 
 Usage: `!pvpoke [user mention or ID]`  
-
-### staff
-
-Usage: `!staff [user mention or ID]`  

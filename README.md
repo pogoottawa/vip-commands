@@ -2,7 +2,7 @@
 
 Welcome! This is a list of user-facing commands for our bots. Most of these commands are restricted behind permissions for the [`@VIP`](https://discord.com/channels/200837505145110528/1018989009936060436) role.
 
-Jump to Command Lists:<br/>[Chansey](#chansey)<br/>[Indigo Minior](#indigo-minior)<br/>[Lilian Meridian](#lilian-meridian)<br/>[Nurse Joy](#nurse-joy)<br/>[Officer Jenny](#officer-jenny)<br/>[Professor Oak](#professor-oak)
+Jump to Command Lists:<br/>[Chansey](#-chansey)<br/>[Indigo Minior](#-indigo-minior)<br/>[Lilian Meridian](#-lilian-meridian)<br/>[Nurse Joy](#-nurse-joy)<br/>[Officer Jenny](#-officer-jenny)<br/>[Professor Oak](#-professor-oak)
 | - |
 
 
@@ -26,7 +26,7 @@ The **prefix** for this command is "." and its **command name** is "derp". When 
 
 If you notice a command is missing or incorrect, please let us know in our [`#server-improvements`](https://discord.com/channels/200837505145110528/522553718743498762) channel.
 
-## Chansey
+## <img src = "https://user-images.githubusercontent.com/66987192/210897822-2973bf06-9219-462e-9b33-15816282c7ad.png" style="border-radius:50%" height="18pt"> Chansey
 
 Prefix: `&`
 
@@ -315,7 +315,7 @@ Aliases: `vip`
 Usage: `&weather-boost [user mention or ID]`  
 Aliases: `weather`, `wb`
 
-## Indigo Minior
+## <img src = "https://user-images.githubusercontent.com/66987192/210897602-d5fa0319-8962-448e-8289-b91e9fac9d71.png" style="border-radius:50%" height="18pt"> Indigo Minior
 
 Prefix: none
 
@@ -326,14 +326,14 @@ Help Command: Check the slash command list
 
 Usage: `/link <link> [user]`
 
-## Lilian Meridian
+## <img src = "https://user-images.githubusercontent.com/66987192/210897661-f5502d14-9d3a-4846-9f48-cc39801567fb.png" style="border-radius:50%" height="18pt"> Lilian Meridian
 
 Prefix: `>`
 
 ### vivillon
 Usage: `>vivillon [user mention]`
 
-## Nurse Joy
+## <img src = "https://user-images.githubusercontent.com/66987192/210897705-66172d05-9b27-4986-9ae2-6539adbc1fd8.png" style="border-radius:50%" height="18pt"> Nurse Joy
 
 Prefix: `+`
 
@@ -374,7 +374,7 @@ Usage: `+ottawa [user mention or ID]`
 
 Usage: `+wdd [user mention or ID]`  
 
-## Officer Jenny
+## <img src = "https://user-images.githubusercontent.com/66987192/210897742-96d382c1-50d5-4bc0-9e04-c778fe9d64ff.png" style="border-radius:50%" height="18pt"> Officer Jenny
 
 Prefix: `!`
 
@@ -460,7 +460,7 @@ Aliases: `beg`, `begging`
 Usage: `!rule13 [user mention or ID]`  
 Aliases: `tos`
 
-## Professor Oak
+## <img src = "https://user-images.githubusercontent.com/66987192/210897791-e50e20bc-e1d3-4561-b589-3d943b01e8a1.png" style="border-radius:50%" height="18pt"> Professor Oak
 
 Prefix: `!`
 

@@ -18,7 +18,7 @@ Commands in this list are formatted in a consistent way for readability.
 Some commands have **aliases**. Aliases can be used in place of the command name when using the command.
 
 #### Example
-Usage: `.derp <text> [user mention or ID]`
+Usage: `.derp <text> [user mention or ID]`  
 Aliases: `d`
 
 The **prefix** for this command is "." and its **command name** is "derp". When using this command you *must* input a text **option** and you *may* also include a user ID or mention as an optional option. Proper uses of this command may look like:  

@@ -159,6 +159,7 @@ Usage: `&meltan [user mention or ID]`
 *Links to resources to find the best Pokémon movesets*
 
 Usage: `&moveset [user mention or ID]`  
+Aliases: `movesets`
 
 ### pass-types
 *Info on different types of raid passes*

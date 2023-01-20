@@ -332,6 +332,11 @@ Prefix: none
 
 Help Command: Check the slash command list
 
+### faq
+*Share a post from the FAQ channel*
+
+Usage: `/faq <post> [user]`
+
 ### link
 *Share a link from the knowledge guide*
 

@@ -110,10 +110,11 @@ Aliases: `raid-boss`, `rb`, `raid-hour`, `rh`, `spotlight`, `sh`
 
 Usage: `&furfrou [user mention or ID]`  
 
-### gbl
+### go-battle-league
 *Infographic of current GO Battle League season*
 
 Usage: `&gbl [user mention or ID]`  
+Aliases: `gbl`
 
 ### home
 *Steps to install and use Pokémon HOME*

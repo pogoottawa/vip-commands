@@ -122,12 +122,6 @@ Aliases: `gbl`
 Usage: `&home [user mention or ID]`  
 Aliases: `pokemonhome`
 
-### interaction-failed
-*Explains the "This interaction failed" error*
-
-Usage: `&interaction-failed [user mention or ID]`  
-Aliases: `if`
-
 ### invite10
 *Guide to inviting more than 5 players in game and modifying raid member size in PokeNav*
 

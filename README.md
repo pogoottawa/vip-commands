@@ -56,6 +56,12 @@ Aliases: `ace`
 
 Usage: `&badges [user mention or ID]`  
 
+### button-spam
+*Reminder to not spam click the raid Sign Up button*
+
+Usage: `&button-spam [user mention or ID]`  
+Aliases: `bspam`
+
 ### coins
 *Different methods to earn coins in Pokémon GO*
 
@@ -109,6 +115,12 @@ Aliases: `raid-boss`, `rb`, `raid-hour`, `rh`, `spotlight`, `sh`
 *Furfrou forms infographic*
 
 Usage: `&furfrou [user mention or ID]`  
+
+### gimmighoul
+*Infographic on Gimmighoul and 100IV CP chart*
+
+Usage: `&gimmighoul [user mention or ID]`  
+Aliases: `gimmi`, `ghoul`
 
 ### go-battle-league
 *Infographic of current GO Battle League season*

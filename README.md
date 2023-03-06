@@ -168,6 +168,12 @@ Usage: `&meltan [user mention or ID]`
 Usage: `&moveset [user mention or ID]`  
 Aliases: `movesets`
 
+### ottawa
+*Invite link for Pokémon GO Ottawa Discord server*
+
+Usage: `&ottawa [user mention or ID]`  
+Aliases: `ott`
+
 ### pass-types
 *Info on different types of raid passes*
 
@@ -326,6 +332,12 @@ Aliases: `vh`, `verify`
 
 Usage: `&vip-info [user mention or ID]`  
 Aliases: `vip`
+
+### wayfarer
+*Invite link for Wayfarer Discord server*
+
+Usage: `&wayfarer [user mention or ID]`  
+Aliases: `wdd`
 
 ### weather-boost
 *Infographic for typing-based weather boost in Pokémon GO*
@@ -491,6 +503,10 @@ Usage: `!wddth [user mention or ID]`
 ## <img src = "https://user-images.githubusercontent.com/66987192/210897791-e50e20bc-e1d3-4561-b589-3d943b01e8a1.png" style="border-radius:50%" height="18pt"> Professor Oak
 
 Prefix: `!`
+
+### abb
+
+Usage: `!abb [user mention or ID]`  
 
 ### pvpoke
 

@@ -498,7 +498,7 @@ Aliases: `tos`
 ### wddth
 *Asking for raids in general chat? We don't do that here*
 
-Usage: `!wddth [user mention or ID]`  
+Usage: `!wddth`  
 
 ## <img src = "https://user-images.githubusercontent.com/66987192/210897791-e50e20bc-e1d3-4561-b589-3d943b01e8a1.png" style="border-radius:50%" height="18pt"> Professor Oak
 

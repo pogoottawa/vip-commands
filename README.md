@@ -40,7 +40,7 @@ Help Command: `&help`
 Note: If you *reply* to a message with a command, Chansey will mention that user with the command output. This feature is available for all Chansey commands.
 
 ### accounthelp
-*Niantic Support link for sign-in issues*
+*Niantic Support link for sign-in issues and how to contact Niantic Support*
 
 Usage: `&accounthelp [user mention or ID]`  
 Aliases: `ah`

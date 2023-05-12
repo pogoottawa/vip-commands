@@ -288,11 +288,6 @@ Aliases: `catchhelp`
 Usage: `&shadow [user mention or ID]`  
 Aliases: `purify`
 
-### silph
-*Link for The Silph Map*
-
-Usage: `&silph [user mention or ID]`  
-
 ### special-lures
 *Infographic on different spawns for special lure modules*
 

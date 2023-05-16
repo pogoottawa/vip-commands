@@ -272,6 +272,7 @@ Usage: `&roles [user mention or ID]`
 Aliases: `serverroles`
 
 ### rules
+*Reminder to read the #rules channel*
 
 Usage: `&rules [user mention or ID]`  
 
@@ -304,7 +305,7 @@ Aliases: `fake`
 
 Usage: `&rule5 [user mention or ID]`  
 
-Note: Unlike `!rule5` (OfficerJenny command), `&rule5` does not have any aliases.
+Note: Unlike `!rule5` (Officer Jenny command), `&rule5` does not have any aliases.
 
 ### rule6
 *No advertising other servers or self-promotion*
@@ -498,6 +499,7 @@ Usage: `+wdd [user mention or ID]`
 Prefix: `!`
 
 ### rules
+*Reminder to read the #rules channel*
 
 Usage: `!rules [user mention or ID]`  
 

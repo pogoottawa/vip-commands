@@ -586,6 +586,8 @@ Aliases: `tos`
 
 Usage: `!wddth`  
 
+Note: This command only works in the general chat channels `#viridian-lounge` and `#cerulean-lounge`.
+
 ## <img src = "https://user-images.githubusercontent.com/66987192/210897791-e50e20bc-e1d3-4561-b589-3d943b01e8a1.png" style="border-radius:50%" height="18pt"> Professor Oak
 
 Prefix: `!`

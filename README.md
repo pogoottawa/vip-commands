@@ -151,11 +151,16 @@ Aliases: `maxlobby`
 
 Usage: `&kick [user mention or ID]`  
 
+### laketrio-map
+*Map of the Lake Trio distribution and their available times*
+
+Usage: `&laketrio-map [user mention or ID]`  
+Aliases: laketrio
+
 ### leave
 *Explains that /leave is disabled*
 
 Usage: `&leave [user mention or ID]`  
-Aliases: 
 
 ### mega-evolution
 *Guide for Mega Evolution mechanic in Pokémon GO*

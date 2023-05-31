@@ -155,7 +155,7 @@ Usage: `&kick [user mention or ID]`
 *Map of the Lake Trio distribution and their available times*
 
 Usage: `&laketrio-map [user mention or ID]`  
-Aliases: laketrio
+Aliases: `laketrio`
 
 ### leave
 *Explains that /leave is disabled*

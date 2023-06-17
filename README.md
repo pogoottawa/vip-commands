@@ -389,6 +389,12 @@ Aliases: `purify`
 Usage: `&special-lures [user mention or ID]`  
 Aliases: `lures`
 
+### starry-skies
+*Information regarding Starry Skies special research*
+
+Usage: `&starry-skies [user mention or ID]`  
+Aliases: `starry`, `day`, `night`
+
 ### trade
 *Information on the trading mechanic in Pokémon GO*
 

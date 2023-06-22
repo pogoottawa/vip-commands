@@ -134,6 +134,11 @@ Aliases: `gimmi`, `ghoul`
 Usage: `&gbl [user mention or ID]`  
 Aliases: `gbl`
 
+### gofest
+*Information about GO Fest 2023*
+
+Usage: `&gofest [user mention or ID]`  
+
 ### home
 *Steps to install and use Pokémon HOME*
 

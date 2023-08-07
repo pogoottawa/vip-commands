@@ -455,12 +455,12 @@ Help Command: Check the slash command list
 ### faq
 *Share a post from the FAQ channel*
 
-Usage: `/faq <post> [user]`
+Usage: `/faq <post> [mention] [hide]`
 
 ### link
 *Share a link from the knowledge guide*
 
-Usage: `/link <link> [user]`
+Usage: `/link <link> [mention] [hide]`
 
 ## <img src = "https://user-images.githubusercontent.com/66987192/210897661-f5502d14-9d3a-4846-9f48-cc39801567fb.png" style="border-radius:50%" height="18pt"> Lilian Meridian
 

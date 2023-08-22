@@ -281,6 +281,12 @@ Aliases: `giovanni`, `radar`
 Usage: `&roles [user mention or ID]`  
 Aliases: `serverroles`
 
+### routes
+*Infographic about routes and Zygrade cells*
+
+Usage: `&routes [user mention or ID]`  
+Aliases: `zygarde`
+
 ### rules
 *Reminder to read the #rules channel*
 
@@ -387,6 +393,12 @@ Aliases: `catchhelp`
 
 Usage: `&shadow [user mention or ID]`  
 Aliases: `purify`
+
+### showcase
+*Infographic on showcases*
+
+Usage: `&showcase [user mention or ID]`  
+Aliases: `contest`
 
 ### special-lures
 *Infographic on different spawns for special lure modules*

@@ -190,6 +190,12 @@ Aliases: `movesets`
 Usage: `&ottawa [user mention or ID]`  
 Aliases: `ott`
 
+### party-play
+*Guide for Party Play feature and FAQs link*
+
+Usage: `&party-play [user mention or ID]`  
+Aliases: `party`, `pp`
+
 ### pass-types
 *Info on different types of raid passes*
 

@@ -111,12 +111,6 @@ Usage: `&eevee [user mention or ID]`
 
 Usage: `&elite [user mention or ID]`  
 
-### events
-*Information on monthly events*
-
-Usage: `&events [user mention or ID]`  
-Aliases: `raid-boss`, `rb`, `raid-hour`, `rh`, `spotlight`, `sh`
-
 ### furfrou
 *Furfrou forms infographic*
 
@@ -133,11 +127,6 @@ Aliases: `gimmi`, `ghoul`
 
 Usage: `&gbl [user mention or ID]`  
 Aliases: `gbl`
-
-### gofest
-*Information about GO Fest 2023*
-
-Usage: `&gofest [user mention or ID]`  
 
 ### home
 *Steps to install and use Pokémon HOME*
